@@ -17,8 +17,3 @@ If you have any questions or suggestions, you can contact me:
 ---
 
 Thank you for visiting this project!
-
-
-https://raw.githubusercontent.com/birsel-epik/{repo_adı}/sap-analytics-visualizations/SA_BE_Sales_Report-1.png
-https://raw.githubusercontent.com/birsel-epik/sap-analytics-visualizations/SA_BE_Sales_Report-1.png
-https://github.com/birsel-epik/sap-analytics-visualizations/SA_BE_Sales_Report-1.png
