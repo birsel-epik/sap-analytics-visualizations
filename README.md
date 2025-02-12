@@ -4,8 +4,8 @@ This repository contains various data visualization studies and reports that I h
 
 ## Contents
 
-![SAP Visual]([SA_BE_Sales_Report-1](https://raw.githubusercontent.com/birsel-epik/sap-analytics-visualizations/main/SA_BE_Sales_Report-1.png))
-![SAP Visual]([SA_BE_Sales_Report-2](https://raw.githubusercontent.com/birsel-epik/sap-analytics-visualizations/main/SA_BE_Sales_Report-1.png))
+![SAP Visual-](https://raw.githubusercontent.com/birsel-epik/sap-analytics-visualizations/main/SA_BE_Sales_Report-1.png)
+![SAP Visual-2](https://raw.githubusercontent.com/birsel-epik/sap-analytics-visualizations/main/SA_BE_Sales_Report-1.png)
 
 ## Contact
 
