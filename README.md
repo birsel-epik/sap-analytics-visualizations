@@ -11,7 +11,7 @@ This repository contains various data visualization studies and reports that I h
 
 If you have any questions or suggestions, you can contact me:
 
-- **E-mail:** [birsel.epik@gmail.com](mailto:birsel.epik@gmail.com)
+- **E-mail:** [birsel_epik@hotmail.com](mailto:birsel_epik@hotmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/birselepik/](https://www.linkedin.com/in/birselepik/)
 
 ---
